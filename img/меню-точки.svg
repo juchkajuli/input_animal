@@ -1,0 +1,33 @@
+
+<svg contentScriptType="text/ecmascript" width="34px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="0 0 34 7" height="7px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch 
+    -->
+    <title>
+        Slider Horizontal Copy
+    </title>
+    <desc>
+        Created with Sketch.
+    </desc>
+    <defs/>
+    <g fill="none" stroke-width="1" id="Page-1" fill-rule="evenodd"
+       stroke="none">
+        <g fill="#282828" id="Components"
+           transform="translate(-664.000000, -1341.000000)">
+            <g id="Icons" transform="translate(603.000000, 1182.000000)">
+                <g id="Slider-Horizontal-Copy"
+                   transform="translate(61.000000, 159.000000)">
+                    <circle fill="#666666" r="3.5" id="Dot-Filled" cx="30.5"
+                            cy="3.5"/>
+                    <circle fill="#666666" r="3.5" id="Dot-Filled" cx="17.5"
+                            cy="3.5"/>
+                    <circle fill="#666666" r="3.5" id="Dot-Filled" cx="3.5"
+                            cy="3.5"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
